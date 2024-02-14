@@ -1,7 +1,5 @@
 ### Hi, I'm Thiago França 💻
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofr4nc4&show_icons=true&theme=tokyonight)
-
 ## Formas de me encontrar 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thiagofr_4)
 [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-fran%C3%A7a-a9303621a/)
@@ -9,4 +7,6 @@
 
 ## Tecnologias que estou estudando
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
+
+![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofr4nc4&show_icons=true&theme=tokyonight)
 
