@@ -14,4 +14,5 @@ caminho natural!</div>
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
 ![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofr4nc4&show_icons=true&theme=tokyonight)
+<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/L3bj6t3opdeNddYCyl" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/rickandmorty-season-4-episode-2-rick-and-morty-L3bj6t3opdeNddYCyl">via GIPHY</a></p>
 
