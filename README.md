@@ -13,8 +13,9 @@ caminho natural!</div>
 ## Tecnologias que estou estudando
 [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagofr4nc4&show_icons=true&theme=tokyonight)
-
-![Person Rick and Morty](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF6bW9pc2RnaXVlZmtmYmJoYnl3eHE5ZTdqaTBnZDV3ZDhmazUyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiagofr4nc4&show_icons=true&theme=tokyonight" alt="Thiago GitHub stats">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTF6bW9pc2RnaXVlZmtmYmJoYnl3eHE5ZTdqaTBnZDV3ZDhmazUyMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L3bj6t3opdeNddYCyl/giphy.gif" alt="Person Rick and Morty" width="300">
+</div>
 
 
