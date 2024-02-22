@@ -1,9 +1,9 @@
 ### Hi, I'm Thiago França 💻
 
 ## Um pouco sobre mim
-[center]Opa, sou o Thiago, tenho 19 anos e estou fazendo o curso de Sistemas de Informação na universidade federal da bahia UFBA.
+<div align="center">Opa, sou o Thiago, tenho 19 anos e estou fazendo o curso de Sistemas de Informação na universidade federal da bahia UFBA.
 sempre fui curioso em relação a tecnologia e por passar boa parte da minha infância na frente de um pc, virar dev acabou sendo um
-caminho natural![/center]
+caminho natural!</div>
 
 ## Formas de me encontrar 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thiagofr_4)
