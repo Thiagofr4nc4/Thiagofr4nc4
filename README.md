@@ -15,7 +15,6 @@ caminho natural para seguir como carreira!</div>
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![GitHub Snake](https://github.com/thiagofr4nc4/thiagofr4nc4/blob/output/github-snake-dark.svg)
 
 
 
